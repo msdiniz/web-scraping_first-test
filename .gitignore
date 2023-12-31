@@ -1,0 +1,18 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+bin
+obj
+bin/Debug/net8.0/BooksOfCategory_*.csv
+bin/Debug/net8.0/Categories*.csv
+bin/Debug/net8.0/books.csv
